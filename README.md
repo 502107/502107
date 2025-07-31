@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm a Postdoctoral Researcher in Bioinformatics at the [John Innes Centre](https://www.jic.ac.uk/), with a PhD in Computational Chemistry from [Cardiff University](https://www.cardiff.ac.uk/) :)
+
 More about me [here](https://502107.github.io/).
 
 <!--

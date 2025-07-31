@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Postdoctoral Researcher in Bioinformatics at the [John Innes Centre](https://www.jic.ac.uk/), with a PhD in Computational Chemistry from [Cardiff University](https://www.cardiff.ac.uk/) :)
+
 <!--
 **502107/502107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
